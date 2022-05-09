@@ -1,5 +1,7 @@
 # Cvičení: Xylofon
 
+Náhled řešení na GitHub Pages [czechitas-podklady-web.github.io/Cviceni-Xylofon/](https://czechitas-podklady-web.github.io/Cviceni-Xylofon/).
+
 ## Zadání
 
 Oživ xylofon, aby kliknutí na jednotlivé kameny měnilo nadpis stránky podle písmene na kameni a ozval se příslušný tón.
